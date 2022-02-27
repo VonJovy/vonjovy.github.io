@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94fb5101.css",
+    "main.js": "/static/js/main.6a29b0fb.js",
+    "static/media/Profile.JPG": "/static/media/Profile.d04168ac082dd2e4268d.JPG",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Grid.ttf": "/static/media/Grid.762e1252674d2e2ae54a.ttf",
+    "static/media/Back to Black Bold Demo.ttf": "/static/media/Back to Black Bold Demo.61bd72e59fab98aa0b1f.ttf",
+    "static/media/Grid_Fill.TTF": "/static/media/Grid_Fill.2f522385c161e4273b98.TTF",
+    "static/media/LemonMilk-Bold.otf": "/static/media/LemonMilk-Bold.ac2b6389ba01ca1f431e.otf",
+    "static/media/LemonMilk-Regular.otf": "/static/media/LemonMilk-Regular.55fc24317b9c2b507dd8.otf",
+    "static/media/BARABARAFINALRegular.ttf": "/static/media/BARABARAFINALRegular.d8a629f88888c421fef7.ttf",
+    "index.html": "/index.html",
+    "main.94fb5101.css.map": "/static/css/main.94fb5101.css.map",
+    "main.6a29b0fb.js.map": "/static/js/main.6a29b0fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94fb5101.css",
+    "static/js/main.6a29b0fb.js"
+  ]
+}
